@@ -1,4 +1,4 @@
-mtllib mount_Motan1.mtl
+mtllib mount_motan1.mtl
 
 g mount_Motan1
 v -18.062840 -80.078430 55.307060
@@ -257,7 +257,7 @@ vt 0.515625 0.011719 0.000000
 vt 0.554688 0.011719 0.000000
 vt 0.234299 0.988260 0.000000
 vt 0.232459 0.988151 0.000000
-usemtl Material_1
+usemtl material_1
 f 1/1 2/2 3/3
 f 3/3 4/4 1/1
 f 5/5 1/1 4/4

@@ -1,4 +1,4 @@
-mtllib Pet_Xiaofeixiang5.mtl
+mtllib pet_xiaofeixiang5.mtl
 
 g mount_mengma5
 v -19.178620 -43.424060 34.655120
@@ -1845,7 +1845,7 @@ vt 0.915990 0.307577 0.000000
 vt 0.928935 0.282724 0.000000
 vt 0.928935 0.295367 0.000000
 vt 0.915990 0.332724 0.000000
-usemtl Material_2
+usemtl material_2
 f 1/1 2/2 3/3
 f 3/3 4/4 1/1
 f 5/5 6/6 7/7

@@ -1,4 +1,4 @@
-mtllib Pet_Xiaofeixiang3.mtl
+mtllib pet_xiaofeixiang3.mtl
 
 g Pet_Xiaofeixiang3
 v -19.489680 -45.696220 24.269180
@@ -1445,7 +1445,7 @@ vt 0.933112 0.386969 0.000000
 vt 0.955460 0.296153 0.000000
 vt 0.888993 0.384916 0.000000
 vt 0.899956 0.406550 0.000000
-usemtl Material_1
+usemtl material_1
 f 1/1 2/2 3/3
 f 3/3 4/4 1/1
 f 5/5 6/6 7/7

@@ -1,4 +1,4 @@
-mtllib hunli_pijiutong1_A.mtl
+mtllib hunli_pijiutong1_a.mtl
 
 g hunli_pijiutong1
 v -9.363435 6.104249 35.188800
@@ -645,7 +645,7 @@ vt 0.953252 0.711462 0.000000
 vt 0.981594 0.665713 0.000000
 vt 0.980981 0.760848 0.000000
 vt 0.953252 0.711462 0.000000
-usemtl Material_1
+usemtl material_1
 f 1/1 2/2 3/3
 f 3/3 4/4 1/1
 f 5/5 1/1 4/4

@@ -1,4 +1,4 @@
-mtllib Guild_Kuangshi.mtl
+mtllib guild_kuangshi.mtl
 
 g Guild_Kuangshi
 v -49.554550 8.204357 75.258350
@@ -695,7 +695,7 @@ vt 0.783203 0.943359 0.000000
 vt 0.701172 0.943359 0.000000
 vt 0.783203 0.998047 0.000000
 vt 0.701172 0.998047 0.000000
-usemtl Material_1
+usemtl material_1
 f 1/1 2/2 3/3
 f 1/1 4/4 2/2
 f 1/1 3/3 5/5

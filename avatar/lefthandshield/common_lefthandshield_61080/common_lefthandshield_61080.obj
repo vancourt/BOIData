@@ -1,4 +1,4 @@
-mtllib common_LeftHandShield_61080.mtl
+mtllib common_lefthandshield_61080.mtl
 
 g objcommon_LeftHandShield_61080
 v 7.879899 -1.480040 -0.486490
@@ -257,7 +257,7 @@ vt 0.553313 0.347181 0.000000
 vt 0.847609 0.412169 0.000000
 vt 0.370855 0.969374 0.000000
 vt 0.799779 0.583296 0.000000
-usemtl Material_1
+usemtl material_1
 f 1/1 2/2 3/3
 f 1/1 3/3 4/4
 f 5/5 6/6 7/7

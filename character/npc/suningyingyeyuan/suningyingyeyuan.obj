@@ -1,4 +1,4 @@
-mtllib Suningyingyeyuan.mtl
+mtllib suningyingyeyuan.mtl
 
 g Suningyingyeyuan
 v -2.361192 -3.365217 2.279686
@@ -1869,7 +1869,7 @@ vt 0.259961 0.658309 0.000000
 vt 0.152370 0.326202 0.000000
 vt 0.128515 0.327000 0.000000
 vt 0.121270 0.337127 0.000000
-usemtl Material_1
+usemtl material_1
 f 2/2 1/1 3/3
 f 5/5 4/4 6/6
 f 7/7 6/6 4/4

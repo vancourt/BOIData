@@ -1,4 +1,4 @@
-mtllib common_RightHandItem_12080.mtl
+mtllib common_righthanditem_12080.mtl
 
 g common_RightHandItem_12080
 v -8.811435 -1.487781 -0.158244
@@ -337,7 +337,7 @@ vt 0.843750 0.500000 0.000000
 vt 0.888946 0.500000 0.000000
 vt 0.798934 0.500000 0.000000
 vt 0.888946 0.500000 0.000000
-usemtl Material_1
+usemtl material_1
 f 2/2 1/1 3/3
 f 4/4 2/2 5/5
 f 2/2 6/6 7/7
