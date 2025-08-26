@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Machinery_Zhixingjiguan2.png
+map_Kd machinery_zhixingjiguan2.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_02bb.png
+map_Kd tx_machinery_zhixingjiguan_02bb.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_02b.png
+map_Kd tx_machinery_zhixingjiguan_02b.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_10b.png
+map_Kd tx_machinery_zhixingjiguan_10b.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_03b.png
+map_Kd tx_machinery_zhixingjiguan_03b.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_01b.png
+map_Kd tx_machinery_zhixingjiguan_01b.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_06b.png
+map_Kd tx_machinery_zhixingjiguan_06b.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_05b.png
+map_Kd tx_machinery_zhixingjiguan_05b.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_04b.png
+map_Kd tx_machinery_zhixingjiguan_04b.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,5 +76,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Machinery_Zhixingjiguan_09b.png
+map_Kd tx_machinery_zhixingjiguan_09b.png
 

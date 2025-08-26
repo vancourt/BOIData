@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_tianpingzuo_1a.png
+map_Kd pet_tianpingzuo_1a.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_tianpingzuo.png
+map_Kd pet_tianpingzuo.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_tianpingzuo.png
+map_Kd pet_tianpingzuo.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_tianpingzuo_1a.png
+map_Kd pet_tianpingzuo_1a.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_02.png
+map_Kd tx_pet_tianpingzuo_02.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_tianpingzuo_2b.png
+map_Kd pet_tianpingzuo_2b.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_05.png
+map_Kd tx_pet_tianpingzuo_05.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_01.png
+map_Kd tx_pet_tianpingzuo_01.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_03.png
+map_Kd tx_pet_tianpingzuo_03.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_12.png
+map_Kd tx_pet_tianpingzuo_12.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_04.png
+map_Kd tx_pet_tianpingzuo_04.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_tianpingzuo_1b.png
+map_Kd pet_tianpingzuo_1b.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_tianpingzuo_1b.png
+map_Kd pet_tianpingzuo_1b.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,7 +108,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_06.png
+map_Kd tx_pet_tianpingzuo_06.png
 
 newmtl Material_15
 Ka 0.200000 0.200000 0.200000
@@ -116,7 +116,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_10.png
+map_Kd tx_pet_tianpingzuo_10.png
 
 newmtl Material_16
 Ka 0.200000 0.200000 0.200000
@@ -124,7 +124,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_08.png
+map_Kd tx_pet_tianpingzuo_08.png
 
 newmtl Material_17
 Ka 0.200000 0.200000 0.200000
@@ -132,7 +132,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_19.png
+map_Kd tx_pet_tianpingzuo_19.png
 
 newmtl Material_18
 Ka 0.200000 0.200000 0.200000
@@ -140,7 +140,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_07.png
+map_Kd tx_pet_tianpingzuo_07.png
 
 newmtl Material_19
 Ka 0.200000 0.200000 0.200000
@@ -148,7 +148,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_14.png
+map_Kd tx_pet_tianpingzuo_14.png
 
 newmtl Material_20
 Ka 0.200000 0.200000 0.200000
@@ -156,7 +156,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_16.png
+map_Kd tx_pet_tianpingzuo_16.png
 
 newmtl Material_21
 Ka 0.200000 0.200000 0.200000
@@ -164,7 +164,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_15.png
+map_Kd tx_pet_tianpingzuo_15.png
 
 newmtl Material_22
 Ka 0.200000 0.200000 0.200000
@@ -172,7 +172,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_13.png
+map_Kd tx_pet_tianpingzuo_13.png
 
 newmtl Material_23
 Ka 0.200000 0.200000 0.200000
@@ -180,5 +180,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_tianpingzuo_20.png
+map_Kd tx_pet_tianpingzuo_20.png
 

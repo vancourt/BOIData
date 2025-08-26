@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_07.png
+map_Kd tx_soulhunter_sishenyinke_hit_07.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_01.png
+map_Kd tx_soulhunter_sishenyinke_hit_01.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_04.png
+map_Kd tx_soulhunter_sishenyinke_hit_04.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_29.png
+map_Kd tx_soulhunter_sishenyinke_hit_29.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_33.png
+map_Kd tx_soulhunter_sishenyinke_hit_33.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_32.png
+map_Kd tx_soulhunter_sishenyinke_hit_32.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_34.png
+map_Kd tx_soulhunter_sishenyinke_hit_34.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_26.png
+map_Kd tx_soulhunter_sishenyinke_hit_26.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,5 +68,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_SoulHunter_Sishenyinke_Hit_00.png
+map_Kd tx_soulhunter_sishenyinke_hit_00.png
 

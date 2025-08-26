@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Human_Shirenxiaogu_e.png
+map_Kd human_shirenxiaogu_e.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Human_Shirenxiaogu_01.png
+map_Kd human_shirenxiaogu_01.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Human_Shirenxiaogu_02.png
+map_Kd human_shirenxiaogu_02.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Human_Shirenxiaogu_03.png
+map_Kd human_shirenxiaogu_03.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Human_Shirenxiaogu_04.png
+map_Kd human_shirenxiaogu_04.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,5 +44,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Human_Shirenxiaogu_05.png
+map_Kd human_shirenxiaogu_05.png
 

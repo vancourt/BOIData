@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_fuben_253_Common_husong_02.png
+map_Kd juqing_fuben_253_common_husong_02.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,5 +52,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_fuben_253_Common_husong_01b.png
+map_Kd juqing_fuben_253_common_husong_01b.png
 

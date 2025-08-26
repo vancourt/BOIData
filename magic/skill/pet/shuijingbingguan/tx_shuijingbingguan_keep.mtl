@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_33.png
+map_Kd tx_pet_shuijingbingguan_keep_33.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_22.png
+map_Kd tx_pet_shuijingbingguan_keep_22.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_30.png
+map_Kd tx_pet_shuijingbingguan_keep_30.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_11.png
+map_Kd tx_pet_shuijingbingguan_keep_11.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_25.png
+map_Kd tx_pet_shuijingbingguan_keep_25.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_27.png
+map_Kd tx_pet_shuijingbingguan_keep_27.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_25.png
+map_Kd tx_pet_shuijingbingguan_keep_25.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_32.png
+map_Kd tx_pet_shuijingbingguan_keep_32.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_31.png
+map_Kd tx_pet_shuijingbingguan_keep_31.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_34.png
+map_Kd tx_pet_shuijingbingguan_keep_34.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_35.png
+map_Kd tx_pet_shuijingbingguan_keep_35.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_37.png
+map_Kd tx_pet_shuijingbingguan_keep_37.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_38.png
+map_Kd tx_pet_shuijingbingguan_keep_38.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,5 +108,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_shuijingbingguan_keep_36.png
+map_Kd tx_pet_shuijingbingguan_keep_36.png
 

@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Baal_a.png
+map_Kd pet_baal_a.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_01.png
+map_Kd tx_pet_baal_01.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_02.png
+map_Kd tx_pet_baal_02.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_04.png
+map_Kd tx_pet_baal_04.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_05.png
+map_Kd tx_pet_baal_05.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_15.png
+map_Kd tx_pet_baal_15.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_16.png
+map_Kd tx_pet_baal_16.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_14.png
+map_Kd tx_pet_baal_14.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_03.png
+map_Kd tx_pet_baal_03.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_06.png
+map_Kd tx_pet_baal_06.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_07.png
+map_Kd tx_pet_baal_07.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_08.png
+map_Kd tx_pet_baal_08.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_09.png
+map_Kd tx_pet_baal_09.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,7 +108,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_10.png
+map_Kd tx_pet_baal_10.png
 
 newmtl Material_15
 Ka 0.200000 0.200000 0.200000
@@ -116,7 +116,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_13.png
+map_Kd tx_pet_baal_13.png
 
 newmtl Material_16
 Ka 0.200000 0.200000 0.200000
@@ -124,7 +124,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_12.png
+map_Kd tx_pet_baal_12.png
 
 newmtl Material_17
 Ka 0.200000 0.200000 0.200000
@@ -132,7 +132,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_11.png
+map_Kd tx_pet_baal_11.png
 
 newmtl Material_18
 Ka 0.200000 0.200000 0.200000
@@ -140,7 +140,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_37.png
+map_Kd tx_pet_baal_37.png
 
 newmtl Material_19
 Ka 0.200000 0.200000 0.200000
@@ -148,7 +148,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_38.png
+map_Kd tx_pet_baal_38.png
 
 newmtl Material_20
 Ka 0.200000 0.200000 0.200000
@@ -156,7 +156,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_17.png
+map_Kd tx_pet_baal_17.png
 
 newmtl Material_21
 Ka 0.200000 0.200000 0.200000
@@ -164,7 +164,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_18.png
+map_Kd tx_pet_baal_18.png
 
 newmtl Material_22
 Ka 0.200000 0.200000 0.200000
@@ -172,7 +172,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_19.png
+map_Kd tx_pet_baal_19.png
 
 newmtl Material_23
 Ka 0.200000 0.200000 0.200000
@@ -180,7 +180,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_20.png
+map_Kd tx_pet_baal_20.png
 
 newmtl Material_24
 Ka 0.200000 0.200000 0.200000
@@ -188,7 +188,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_21.png
+map_Kd tx_pet_baal_21.png
 
 newmtl Material_25
 Ka 0.200000 0.200000 0.200000
@@ -196,7 +196,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_22.png
+map_Kd tx_pet_baal_22.png
 
 newmtl Material_26
 Ka 0.200000 0.200000 0.200000
@@ -204,7 +204,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_23.png
+map_Kd tx_pet_baal_23.png
 
 newmtl Material_27
 Ka 0.200000 0.200000 0.200000
@@ -212,7 +212,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_24.png
+map_Kd tx_pet_baal_24.png
 
 newmtl Material_28
 Ka 0.200000 0.200000 0.200000
@@ -220,5 +220,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Baal_25.png
+map_Kd tx_pet_baal_25.png
 

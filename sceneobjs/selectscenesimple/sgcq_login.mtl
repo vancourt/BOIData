@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s128.png
+map_Kd tx_loadingview_s128.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -460,7 +460,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LOGO_UI_s02.png
+map_Kd tx_logo_ui_s02.png
 
 newmtl Material_59
 Ka 0.200000 0.200000 0.200000
@@ -468,7 +468,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LOGO_UI_s03.png
+map_Kd tx_logo_ui_s03.png
 
 newmtl Material_60
 Ka 0.200000 0.200000 0.200000
@@ -476,7 +476,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s156.png
+map_Kd tx_loadingview_s156.png
 
 newmtl Material_61
 Ka 0.200000 0.200000 0.200000
@@ -484,7 +484,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s138.png
+map_Kd tx_loadingview_s138.png
 
 newmtl Material_62
 Ka 0.200000 0.200000 0.200000
@@ -492,7 +492,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s137.png
+map_Kd tx_loadingview_s137.png
 
 newmtl Material_63
 Ka 0.200000 0.200000 0.200000
@@ -500,7 +500,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s122.png
+map_Kd tx_loadingview_s122.png
 
 newmtl Material_64
 Ka 0.200000 0.200000 0.200000
@@ -508,7 +508,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s154.png
+map_Kd tx_loadingview_s154.png
 
 newmtl Material_65
 Ka 0.200000 0.200000 0.200000
@@ -516,7 +516,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s133.png
+map_Kd tx_loadingview_s133.png
 
 newmtl Material_66
 Ka 0.200000 0.200000 0.200000
@@ -524,5 +524,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_LoadingView_s112.png
+map_Kd tx_loadingview_s112.png
 

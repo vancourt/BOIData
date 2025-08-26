@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Mount_Zhizhu1.png
+map_Kd mount_zhizhu1.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Mount_Zhizhu5_06.png
+map_Kd tx_mount_zhizhu5_06.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Mount_Zhizhu5_05.png
+map_Kd tx_mount_zhizhu5_05.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,5 +28,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Mount_Zhizhu5_01.png
+map_Kd tx_mount_zhizhu5_01.png
 

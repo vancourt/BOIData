@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_GodSkill_Sizhicaijue_Fire_111.png
+map_Kd tx_godskill_sizhicaijue_fire_111.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_GodSkill_Sizhicaijue_Fire_142.png
+map_Kd tx_godskill_sizhicaijue_fire_142.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_GodSkill_Sizhicaijue_Fire_144.png
+map_Kd tx_godskill_sizhicaijue_fire_144.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_GodSkill_Sizhicaijue_Fire_119.png
+map_Kd tx_godskill_sizhicaijue_fire_119.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_GodSkill_Sizhicaijue_Fire_07.png
+map_Kd tx_godskill_sizhicaijue_fire_07.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,5 +44,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_GodSkill_Sizhicaijue_Fire_132.png
+map_Kd tx_godskill_sizhicaijue_fire_132.png
 

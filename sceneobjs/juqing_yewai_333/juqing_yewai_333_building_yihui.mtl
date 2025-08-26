@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_01.png
+map_Kd juqing_yewai_333_building_yihui_01.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_02.png
+map_Kd juqing_yewai_333_building_yihui_02.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_03.png
+map_Kd juqing_yewai_333_building_yihui_03.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_04.png
+map_Kd juqing_yewai_333_building_yihui_04.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_05.png
+map_Kd juqing_yewai_333_building_yihui_05.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_06.png
+map_Kd juqing_yewai_333_building_yihui_06.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_07.png
+map_Kd juqing_yewai_333_building_yihui_07.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_08.png
+map_Kd juqing_yewai_333_building_yihui_08.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_09.png
+map_Kd juqing_yewai_333_building_yihui_09.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_10.png
+map_Kd juqing_yewai_333_building_yihui_10.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_11.png
+map_Kd juqing_yewai_333_building_yihui_11.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_12.png
+map_Kd juqing_yewai_333_building_yihui_12.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_13.png
+map_Kd juqing_yewai_333_building_yihui_13.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,7 +108,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_14.png
+map_Kd juqing_yewai_333_building_yihui_14.png
 
 newmtl Material_15
 Ka 0.200000 0.200000 0.200000
@@ -116,7 +116,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_15.png
+map_Kd juqing_yewai_333_building_yihui_15.png
 
 newmtl Material_16
 Ka 0.200000 0.200000 0.200000
@@ -124,7 +124,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_16.png
+map_Kd juqing_yewai_333_building_yihui_16.png
 
 newmtl Material_17
 Ka 0.200000 0.200000 0.200000
@@ -132,7 +132,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_17.png
+map_Kd juqing_yewai_333_building_yihui_17.png
 
 newmtl Material_18
 Ka 0.200000 0.200000 0.200000
@@ -140,7 +140,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_18.png
+map_Kd juqing_yewai_333_building_yihui_18.png
 
 newmtl Material_19
 Ka 0.200000 0.200000 0.200000
@@ -148,7 +148,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_19.png
+map_Kd juqing_yewai_333_building_yihui_19.png
 
 newmtl Material_20
 Ka 0.200000 0.200000 0.200000
@@ -156,7 +156,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_20.png
+map_Kd juqing_yewai_333_building_yihui_20.png
 
 newmtl Material_21
 Ka 0.200000 0.200000 0.200000
@@ -164,7 +164,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_zhuzi_01.png
+map_Kd juqing_yewai_333_building_yihui_zhuzi_01.png
 
 newmtl Material_22
 Ka 0.200000 0.200000 0.200000
@@ -172,7 +172,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_zhuzi_02.png
+map_Kd juqing_yewai_333_building_yihui_zhuzi_02.png
 
 newmtl Material_23
 Ka 0.200000 0.200000 0.200000
@@ -180,7 +180,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_deng_01.png
+map_Kd juqing_yewai_333_building_yihui_deng_01.png
 
 newmtl Material_24
 Ka 0.200000 0.200000 0.200000
@@ -188,7 +188,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_deng_02.png
+map_Kd juqing_yewai_333_building_yihui_deng_02.png
 
 newmtl Material_25
 Ka 0.200000 0.200000 0.200000
@@ -196,7 +196,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_deng_03.png
+map_Kd juqing_yewai_333_building_yihui_deng_03.png
 
 newmtl Material_26
 Ka 0.200000 0.200000 0.200000
@@ -204,7 +204,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd juqing_yewai_333_building_YiHui_deng_04.png
+map_Kd juqing_yewai_333_building_yihui_deng_04.png
 
 newmtl Material_27
 Ka 0.200000 0.200000 0.200000

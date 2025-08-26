@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_01.png
+map_Kd tx_male_17_ldnecromancer1_01.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_02.png
+map_Kd tx_male_17_ldnecromancer1_02.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_03.png
+map_Kd tx_male_17_ldnecromancer1_03.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_05.png
+map_Kd tx_male_17_ldnecromancer1_05.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_07.png
+map_Kd tx_male_17_ldnecromancer1_07.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_11.png
+map_Kd tx_male_17_ldnecromancer1_11.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_13.png
+map_Kd tx_male_17_ldnecromancer1_13.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_15.png
+map_Kd tx_male_17_ldnecromancer1_15.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,5 +100,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_male_17_ldNecromancer1_16.png
+map_Kd tx_male_17_ldnecromancer1_16.png
 

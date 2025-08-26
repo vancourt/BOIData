@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_10_b.png
+map_Kd pet_shenhu1_bs_10_b.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_9_b.png
+map_Kd pet_shenhu1_bs_9_b.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_6_b.png
+map_Kd pet_shenhu1_bs_6_b.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Shenhu5_02_a.png
+map_Kd tx_pet_shenhu5_02_a.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Shenhu5_01_e.png
+map_Kd tx_pet_shenhu5_01_e.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Pet_Shenhu5_03_e.png
+map_Kd tx_pet_shenhu5_03_e.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_8_b.png
+map_Kd pet_shenhu1_bs_8_b.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_7_b.png
+map_Kd pet_shenhu1_bs_7_b.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1.png
+map_Kd pet_shenhu1.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_7_a.png
+map_Kd pet_shenhu1_bs_7_a.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_7_a.png
+map_Kd pet_shenhu1_bs_7_a.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_8_a.png
+map_Kd pet_shenhu1_bs_8_a.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_8_a.png
+map_Kd pet_shenhu1_bs_8_a.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,7 +108,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_9_a.png
+map_Kd pet_shenhu1_bs_9_a.png
 
 newmtl Material_15
 Ka 0.200000 0.200000 0.200000
@@ -116,7 +116,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_9_a.png
+map_Kd pet_shenhu1_bs_9_a.png
 
 newmtl Material_16
 Ka 0.200000 0.200000 0.200000
@@ -124,7 +124,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_10_a.png
+map_Kd pet_shenhu1_bs_10_a.png
 
 newmtl Material_17
 Ka 0.200000 0.200000 0.200000
@@ -132,5 +132,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Pet_Shenhu1_bs_10_a.png
+map_Kd pet_shenhu1_bs_10_a.png
 

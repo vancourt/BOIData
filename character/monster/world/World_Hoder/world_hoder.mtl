@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd World_Hoder.png
+map_Kd world_hoder.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,5 +12,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd World_Hoder_b.png
+map_Kd world_hoder_b.png
 

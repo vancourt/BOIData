@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd s_taoshu1_ID1.png
+map_Kd s_taoshu1_id1.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd s_taoshu1_ID2.png
+map_Kd s_taoshu1_id2.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -180,7 +180,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd s_taoshu1_ID1.png
+map_Kd s_taoshu1_id1.png
 
 newmtl Material_24
 Ka 0.200000 0.200000 0.200000
@@ -188,7 +188,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd s_taoshu1_ID2.png
+map_Kd s_taoshu1_id2.png
 
 newmtl Material_25
 Ka 0.200000 0.200000 0.200000
@@ -204,7 +204,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd s_taoshu1_ID2.png
+map_Kd s_taoshu1_id2.png
 
 newmtl Material_27
 Ka 0.200000 0.200000 0.200000

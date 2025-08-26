@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd yatelandisi_dongxue_04_men01_A.png
+map_Kd yatelandisi_dongxue_04_men01_a.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd yatelandisi_dongxue_04_men01_B.png
+map_Kd yatelandisi_dongxue_04_men01_b.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd yatelandisi_dongxue_04_men01_C.png
+map_Kd yatelandisi_dongxue_04_men01_c.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,5 +28,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd yatelandisi_dongxue_04_men01_D.png
+map_Kd yatelandisi_dongxue_04_men01_d.png
 

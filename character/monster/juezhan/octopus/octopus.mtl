@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Octopus_01.png
+map_Kd octopus_01.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Octopus_02.png
+map_Kd octopus_02.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_02.png
+map_Kd tx_octopus_02.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_05.png
+map_Kd tx_octopus_05.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_06.png
+map_Kd tx_octopus_06.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_04.png
+map_Kd tx_octopus_04.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_09.png
+map_Kd tx_octopus_09.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_12.png
+map_Kd tx_octopus_12.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_17.png
+map_Kd tx_octopus_17.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_08.png
+map_Kd tx_octopus_08.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_14.png
+map_Kd tx_octopus_14.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_15.png
+map_Kd tx_octopus_15.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_13.png
+map_Kd tx_octopus_13.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,7 +108,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_16.png
+map_Kd tx_octopus_16.png
 
 newmtl Material_15
 Ka 0.200000 0.200000 0.200000
@@ -116,7 +116,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_003.png
+map_Kd tx_octopus_003.png
 
 newmtl Material_16
 Ka 0.200000 0.200000 0.200000
@@ -124,7 +124,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_009.png
+map_Kd tx_octopus_009.png
 
 newmtl Material_17
 Ka 0.200000 0.200000 0.200000
@@ -132,7 +132,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_007.png
+map_Kd tx_octopus_007.png
 
 newmtl Material_18
 Ka 0.200000 0.200000 0.200000
@@ -140,7 +140,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_039.png
+map_Kd tx_octopus_039.png
 
 newmtl Material_19
 Ka 0.200000 0.200000 0.200000
@@ -148,7 +148,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_004.png
+map_Kd tx_octopus_004.png
 
 newmtl Material_20
 Ka 0.200000 0.200000 0.200000
@@ -156,7 +156,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_013.png
+map_Kd tx_octopus_013.png
 
 newmtl Material_21
 Ka 0.200000 0.200000 0.200000
@@ -164,7 +164,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_065.png
+map_Kd tx_octopus_065.png
 
 newmtl Material_22
 Ka 0.200000 0.200000 0.200000
@@ -172,7 +172,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_066.png
+map_Kd tx_octopus_066.png
 
 newmtl Material_23
 Ka 0.200000 0.200000 0.200000
@@ -180,7 +180,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_20.png
+map_Kd tx_octopus_20.png
 
 newmtl Material_24
 Ka 0.200000 0.200000 0.200000
@@ -188,7 +188,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_19.png
+map_Kd tx_octopus_19.png
 
 newmtl Material_25
 Ka 0.200000 0.200000 0.200000
@@ -196,5 +196,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Octopus_21.png
+map_Kd tx_octopus_21.png
 

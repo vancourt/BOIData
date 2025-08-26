@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Fuhuodao_nvyao_4.png
+map_Kd fuhuodao_nvyao_4.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Fuhuodao_nvyao_4_3.png
+map_Kd tx_fuhuodao_nvyao_4_3.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Fuhuodao_nvyao_4_1.png
+map_Kd tx_fuhuodao_nvyao_4_1.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Fuhuodao_nvyao_4_2.png
+map_Kd tx_fuhuodao_nvyao_4_2.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,5 +36,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Fuhuodao_nvyao_4_4.png
+map_Kd tx_fuhuodao_nvyao_4_4.png
 

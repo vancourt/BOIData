@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_28.png
+map_Kd tx_boss_molong_navi_28.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_41.png
+map_Kd tx_boss_molong_navi_41.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_23.png
+map_Kd tx_boss_molong_navi_23.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_05.png
+map_Kd tx_boss_molong_navi_05.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -68,7 +68,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_45.png
+map_Kd tx_boss_molong_navi_45.png
 
 newmtl Material_10
 Ka 0.200000 0.200000 0.200000
@@ -76,7 +76,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_44.png
+map_Kd tx_boss_molong_navi_44.png
 
 newmtl Material_11
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_21.png
+map_Kd tx_boss_molong_navi_21.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_26.png
+map_Kd tx_boss_molong_navi_26.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_27.png
+map_Kd tx_boss_molong_navi_27.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,7 +108,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_25.png
+map_Kd tx_boss_molong_navi_25.png
 
 newmtl Material_15
 Ka 0.200000 0.200000 0.200000
@@ -116,7 +116,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_22.png
+map_Kd tx_boss_molong_navi_22.png
 
 newmtl Material_16
 Ka 0.200000 0.200000 0.200000
@@ -124,7 +124,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_01.png
+map_Kd tx_boss_molong_navi_01.png
 
 newmtl Material_17
 Ka 0.200000 0.200000 0.200000
@@ -132,7 +132,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_02.png
+map_Kd tx_boss_molong_navi_02.png
 
 newmtl Material_18
 Ka 0.200000 0.200000 0.200000
@@ -140,7 +140,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_43.png
+map_Kd tx_boss_molong_navi_43.png
 
 newmtl Material_19
 Ka 0.200000 0.200000 0.200000
@@ -148,7 +148,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_30.png
+map_Kd tx_boss_molong_navi_30.png
 
 newmtl Material_20
 Ka 0.200000 0.200000 0.200000
@@ -156,7 +156,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_06.png
+map_Kd tx_boss_molong_navi_06.png
 
 newmtl Material_21
 Ka 0.200000 0.200000 0.200000
@@ -164,7 +164,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_33.png
+map_Kd tx_boss_molong_navi_33.png
 
 newmtl Material_22
 Ka 0.200000 0.200000 0.200000
@@ -172,7 +172,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_42.png
+map_Kd tx_boss_molong_navi_42.png
 
 newmtl Material_23
 Ka 0.200000 0.200000 0.200000
@@ -180,7 +180,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_47.png
+map_Kd tx_boss_molong_navi_47.png
 
 newmtl Material_24
 Ka 0.200000 0.200000 0.200000
@@ -188,5 +188,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Boss_molong_navi_48.png
+map_Kd tx_boss_molong_navi_48.png
 

@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_19.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_19.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,7 +28,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_30.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_30.png
 
 newmtl Material_5
 Ka 0.200000 0.200000 0.200000
@@ -36,7 +36,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_24.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_24.png
 
 newmtl Material_6
 Ka 0.200000 0.200000 0.200000
@@ -44,7 +44,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_25.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_25.png
 
 newmtl Material_7
 Ka 0.200000 0.200000 0.200000
@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_28.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_28.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000
@@ -60,7 +60,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_18.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_18.png
 
 newmtl Material_9
 Ka 0.200000 0.200000 0.200000
@@ -84,7 +84,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_20.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_20.png
 
 newmtl Material_12
 Ka 0.200000 0.200000 0.200000
@@ -92,7 +92,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_32.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_32.png
 
 newmtl Material_13
 Ka 0.200000 0.200000 0.200000
@@ -100,7 +100,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_26.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_26.png
 
 newmtl Material_14
 Ka 0.200000 0.200000 0.200000
@@ -108,7 +108,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_122.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_122.png
 
 newmtl Material_15
 Ka 0.200000 0.200000 0.200000
@@ -116,7 +116,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_109.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_109.png
 
 newmtl Material_16
 Ka 0.200000 0.200000 0.200000
@@ -124,7 +124,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_02.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_02.png
 
 newmtl Material_17
 Ka 0.200000 0.200000 0.200000
@@ -132,5 +132,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_boss_Animal_Dujiaoshou_bianse_01.png
+map_Kd tx_boss_animal_dujiaoshou_bianse_01.png
 

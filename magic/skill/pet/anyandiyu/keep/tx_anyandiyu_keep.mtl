@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Anyandiyu_Keep_07.png
+map_Kd tx_anyandiyu_keep_07.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Anyandiyu_Keep_11.png
+map_Kd tx_anyandiyu_keep_11.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Anyandiyu_Keep_13.png
+map_Kd tx_anyandiyu_keep_13.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,5 +28,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_Anyandiyu_Keep_14.png
+map_Kd tx_anyandiyu_keep_14.png
 

@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Aiji16_common_pobu_25_1.png
+map_Kd aiji16_common_pobu_25_1.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,5 +12,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd Aiji16_common_pobu_25_2.png
+map_Kd aiji16_common_pobu_25_2.png
 

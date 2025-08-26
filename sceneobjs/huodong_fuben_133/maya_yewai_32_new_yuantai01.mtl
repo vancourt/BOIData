@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd maya_yewai_32_New_yuantai01_01.png
+map_Kd maya_yewai_32_new_yuantai01_01.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,7 +20,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd maya_yewai_32_New_yuantai01_02.png
+map_Kd maya_yewai_32_new_yuantai01_02.png
 
 newmtl Material_4
 Ka 0.200000 0.200000 0.200000
@@ -28,5 +28,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd maya_yewai_32_New_wall01_11.png
+map_Kd maya_yewai_32_new_wall01_11.png
 

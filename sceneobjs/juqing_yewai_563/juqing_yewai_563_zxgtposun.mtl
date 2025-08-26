@@ -52,7 +52,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd JUQING_Y.png
+map_Kd juqing_y.png
 
 newmtl Material_8
 Ka 0.200000 0.200000 0.200000

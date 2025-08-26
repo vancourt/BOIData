@@ -4,7 +4,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_common_LeftHandShield_61005_01.png
+map_Kd tx_common_lefthandshield_61005_01.png
 
 newmtl Material_2
 Ka 0.200000 0.200000 0.200000
@@ -12,7 +12,7 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_common_LeftHandShield_61005_12.png
+map_Kd tx_common_lefthandshield_61005_12.png
 
 newmtl Material_3
 Ka 0.200000 0.200000 0.200000
@@ -20,5 +20,5 @@ Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 illum 2
 Ns 8.000000
-map_Kd tx_common_LeftHandShield_61005_13.png
+map_Kd tx_common_lefthandshield_61005_13.png
 
