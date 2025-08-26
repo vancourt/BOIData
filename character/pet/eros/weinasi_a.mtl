@@ -1,4 +1,4 @@
-newmtl Material_1
+newmtl material_1
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -6,7 +6,7 @@ illum 2
 Ns 8.000000
 map_Kd ??????.png
 
-newmtl Material_2
+newmtl material_2
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -14,7 +14,7 @@ illum 2
 Ns 8.000000
 map_Kd weinasi_a.png
 
-newmtl Material_3
+newmtl material_3
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -22,7 +22,7 @@ illum 2
 Ns 8.000000
 map_Kd weinasi_a.png
 
-newmtl Material_4
+newmtl material_4
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -30,7 +30,7 @@ illum 2
 Ns 8.000000
 map_Kd weinasi_b.png
 
-newmtl Material_5
+newmtl material_5
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -38,7 +38,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_05.png
 
-newmtl Material_6
+newmtl material_6
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -46,7 +46,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_06.png
 
-newmtl Material_7
+newmtl material_7
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -54,7 +54,7 @@ illum 2
 Ns 8.000000
 map_Kd weinasi_d.png
 
-newmtl Material_8
+newmtl material_8
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -62,7 +62,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_49.png
 
-newmtl Material_9
+newmtl material_9
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -70,7 +70,7 @@ illum 2
 Ns 8.000000
 map_Kd .png
 
-newmtl Material_10
+newmtl material_10
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -78,7 +78,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_02.png
 
-newmtl Material_11
+newmtl material_11
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -86,7 +86,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_23.png
 
-newmtl Material_12
+newmtl material_12
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -94,7 +94,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_95.png
 
-newmtl Material_13
+newmtl material_13
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -102,7 +102,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_29.png
 
-newmtl Material_14
+newmtl material_14
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -110,7 +110,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_03.png
 
-newmtl Material_15
+newmtl material_15
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -118,7 +118,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_48.png
 
-newmtl Material_16
+newmtl material_16
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -126,7 +126,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_07.png
 
-newmtl Material_17
+newmtl material_17
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -134,7 +134,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_08.png
 
-newmtl Material_18
+newmtl material_18
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -142,7 +142,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_09.png
 
-newmtl Material_19
+newmtl material_19
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -150,7 +150,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_10.png
 
-newmtl Material_20
+newmtl material_20
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -158,7 +158,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_11.png
 
-newmtl Material_21
+newmtl material_21
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -166,7 +166,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_12.png
 
-newmtl Material_22
+newmtl material_22
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -174,7 +174,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_15.png
 
-newmtl Material_23
+newmtl material_23
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -182,7 +182,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_14.png
 
-newmtl Material_24
+newmtl material_24
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -190,7 +190,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_13.png
 
-newmtl Material_25
+newmtl material_25
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -198,7 +198,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_04.png
 
-newmtl Material_26
+newmtl material_26
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -206,7 +206,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_17.png
 
-newmtl Material_27
+newmtl material_27
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -214,7 +214,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_39.png
 
-newmtl Material_28
+newmtl material_28
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -222,7 +222,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_weinasi_31.png
 
-newmtl Material_29
+newmtl material_29
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000

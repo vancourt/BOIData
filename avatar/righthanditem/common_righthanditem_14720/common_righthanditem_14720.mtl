@@ -1,4 +1,4 @@
-newmtl Material_1
+newmtl material_1
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -6,7 +6,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_22.png
 
-newmtl Material_2
+newmtl material_2
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -14,7 +14,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_20.png
 
-newmtl Material_3
+newmtl material_3
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -22,7 +22,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_10.png
 
-newmtl Material_4
+newmtl material_4
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -30,7 +30,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_02.png
 
-newmtl Material_5
+newmtl material_5
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -38,7 +38,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_07.png
 
-newmtl Material_6
+newmtl material_6
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -46,7 +46,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_04.png
 
-newmtl Material_7
+newmtl material_7
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -54,7 +54,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_11.png
 
-newmtl Material_8
+newmtl material_8
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -62,7 +62,7 @@ illum 2
 Ns 8.000000
 map_Kd tx_common_righthanditem_14720_23.png
 
-newmtl Material_9
+newmtl material_9
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -70,7 +70,7 @@ illum 2
 Ns 8.000000
 map_Kd common_righthanditem_14720.png
 
-newmtl Material_10
+newmtl material_10
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -78,7 +78,7 @@ illum 2
 Ns 8.000000
 map_Kd common_righthanditem_14720.png
 
-newmtl Material_11
+newmtl material_11
 Ka 0.200000 0.200000 0.200000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
