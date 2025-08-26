@@ -1,0 +1,208 @@
+newmtl Material_1
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd boss_blackdragon_a.png
+
+newmtl Material_2
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd boss_blackdragon_a.png
+
+newmtl Material_3
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd boss_blackdragon_b.png
+
+newmtl Material_4
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_28.png
+
+newmtl Material_5
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_41.png
+
+newmtl Material_6
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_23.png
+
+newmtl Material_7
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_04.png
+
+newmtl Material_8
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_05.png
+
+newmtl Material_9
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd xiaoshuishi.png
+
+newmtl Material_10
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_45.png
+
+newmtl Material_11
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_44.png
+
+newmtl Material_12
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_21.png
+
+newmtl Material_13
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_26.png
+
+newmtl Material_14
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_27.png
+
+newmtl Material_15
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_25.png
+
+newmtl Material_16
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_22.png
+
+newmtl Material_17
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_01.png
+
+newmtl Material_18
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_02.png
+
+newmtl Material_19
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_29.png
+
+newmtl Material_20
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_30.png
+
+newmtl Material_21
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_06.png
+
+newmtl Material_22
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_40.png
+
+newmtl Material_23
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_33.png
+
+newmtl Material_24
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_42.png
+
+newmtl Material_25
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_47.png
+
+newmtl Material_26
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_boss_blackdragon_48.png
+
