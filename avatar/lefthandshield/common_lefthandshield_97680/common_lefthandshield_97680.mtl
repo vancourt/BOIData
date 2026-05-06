@@ -1,0 +1,56 @@
+newmtl Material_1
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_common_leftHandShield_97680_001.png
+
+newmtl Material_2
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_common_leftHandShield_97680_002.png
+
+newmtl Material_3
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_common_leftHandShield_97680_005.png
+
+newmtl Material_4
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_common_leftHandShield_97680_003.png
+
+newmtl Material_5
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd common_leftHandShield_97680.png
+
+newmtl Material_6
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_common_leftHandShield_97680_004.png
+
+newmtl Material_7
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_common_shoulder_97680_010.png
+

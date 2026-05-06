@@ -1,0 +1,168 @@
+newmtl Material_1
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd shuipingboss.png
+
+newmtl Material_2
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd shuipingboss.png
+
+newmtl Material_3
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd shuipingboss_1.png
+
+newmtl Material_4
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd shuipingboss_1.png
+
+newmtl Material_5
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_001.png
+
+newmtl Material_6
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_004.png
+
+newmtl Material_7
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_003.png
+
+newmtl Material_8
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_common_back_90111_004.png
+
+newmtl Material_9
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_006.png
+
+newmtl Material_10
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_008.png
+
+newmtl Material_11
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_007.png
+
+newmtl Material_12
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_009.png
+
+newmtl Material_13
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_013.png
+
+newmtl Material_14
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_011.png
+
+newmtl Material_15
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_012.png
+
+newmtl Material_16
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_015.png
+
+newmtl Material_17
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_016.png
+
+newmtl Material_18
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_017.png
+
+newmtl Material_19
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_018.png
+
+newmtl Material_20
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_021.png
+
+newmtl Material_21
+Ka 0.200000 0.200000 0.200000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+illum 2
+Ns 8.000000
+map_Kd tx_shuipingboss_002.png
+
